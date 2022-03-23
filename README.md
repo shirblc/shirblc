@@ -8,10 +8,16 @@ I'm Shir, a full-stack and iOS developer, passionate about psychology, scifi and
 - 📫 How to reach me: [Email](mailto:51282497+shirblc@users.noreply.github.com) | [LinkedIn](https://www.linkedin.com/in/shir-bar-lev/)
 - 😄 Pronouns: She/Her
 
-#### My Activity & Tech Stack
+#### My Activity
 
-[![Shir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirblc&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirblc&layout=compact&exclude_repo=dockerfile-wizard,reactnd-mobile-flashcards&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shirblc&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirblc&layout=compact&exclude_repo=dockerfile-wizard,reactnd-mobile-flashcards&langs_count=8&theme=tokyonight" style="height: 195px" />
+</a>
+
+#### My Tech Stack
 
 - **Frontend Frameworks include**: Angular, AngularJS, Vue 2, React, React Native
 - **Backend Frameworks include**: Flask (Python), FastAPI (Python), Express (JavaScript)
