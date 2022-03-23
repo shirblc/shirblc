@@ -8,12 +8,9 @@ I'm Shir, a full-stack and iOS developer, passionate about psychology, scifi and
 - 📫 How to reach me: [Email](mailto:51282497+shirblc@users.noreply.github.com) | [LinkedIn](https://www.linkedin.com/in/shir-bar-lev/)
 - 😄 Pronouns: She/Her
 
-#### My Activity
+#### My Activity & Tech Stack
 
 [![Shir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirblc&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-#### My Tech Stack
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirblc&layout=compact&exclude_repo=dockerfile-wizard,reactnd-mobile-flashcards&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Frontend Frameworks include**: Angular, AngularJS, Vue 2, React, React Native
