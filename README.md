@@ -2,8 +2,8 @@
 
 I'm Shir, a full-stack and iOS developer, passionate about psychology, scifi and fantasy, reading and writing.
 
-- 🔭 I’m currently working on an mental-health-focused iOS app and [Send A Hug](https://github.com/sendahug)
-- 🌱 I’m currently learning Objective-C, Vue 3 and migrating from Vue 2
+- 🔭 I’m currently working on a mental-health-focused iOS app and [Send A Hug](https://github.com/sendahug)
+- 🌱 I’m currently learning Objective-C, SwiftUI, Vue 3 and migrating from Vue 2
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email](mailto:51282497+shirblc@users.noreply.github.com) | [LinkedIn](https://www.linkedin.com/in/shir-bar-lev/)
 - 😄 Pronouns: She/Her
