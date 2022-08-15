@@ -3,7 +3,7 @@
 I'm Shir, a full-stack and iOS developer, passionate about psychology, scifi and fantasy, reading and writing.
 
 - 🔭 I’m currently working on a mental-health-focused iOS app and [Send A Hug](https://github.com/sendahug)
-- 🌱 I’m currently learning Objective-C, SwiftUI, Vue 3 and migrating from Vue 2
+- 🌱 I’m currently learning Objective-C and SwiftUI
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email](mailto:51282497+shirblc@users.noreply.github.com) | [LinkedIn](https://www.linkedin.com/in/shir-bar-lev/)
 - 😄 Pronouns: She/Her
@@ -19,7 +19,7 @@ I'm Shir, a full-stack and iOS developer, passionate about psychology, scifi and
 
 #### My Tech Stack
 
-- **Frontend Frameworks include**: Angular, AngularJS, Vue 2, React, React Native
+- **Frontend Frameworks include**: Angular, AngularJS, Vue 2/3, React, React Native
 - **Backend Frameworks include**: Flask (Python), FastAPI (Python), Express (JavaScript)
 - **Also working with**: CareKit, ResearchKit
 
